@@ -1,4 +1,2 @@
 namespace: awesome-system
-resources:
-  - example-java-springboot-webapp
-  - namespace-resources
+resources: []
