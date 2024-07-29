@@ -2,3 +2,4 @@ namespace: awesome-system
 resources: 
 - example-java-springboot-webapp
 - namespace-resources
+- couple-services-example.flux.yaml
