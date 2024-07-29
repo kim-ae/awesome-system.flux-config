@@ -4,7 +4,7 @@ resources:
 images:
   - name: coupled-services-example2-placeholder
     newName: kimae09/example-java-springboot-webapp
-    newTag: 0.0.3-SNAPSHOT # {"$imagepolicy": "awesome-system:coupled-services-example2:tag"}
+    newTag: 0.0.4-SNAPSHOT # {"$imagepolicy": "awesome-system:coupled-services-example2:tag"}
 patches:
   - path: deployment.patch.yaml
 configMapGenerator:
